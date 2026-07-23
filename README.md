@@ -4,17 +4,18 @@
 
 ## 项目列表
 
-| 项目名称 | 描述 | 状态 |
-|---------|------|------|
-| 项目1 | 待添加 | 🔄 进行中 |
+|项目名称|描述|状态|
+|-|-|-|
+|项目1|待添加|🔄 进行中|
 
 ## 技术栈
 
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
+* Python
+* Pandas
+* Matplotlib / Seaborn
+* Jupyter Notebook
 
 ## 关于我
 
 信息与计算科学专业，正在学习数据分析。
+
